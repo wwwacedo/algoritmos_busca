@@ -3,7 +3,7 @@ package main;
 import java.util.Scanner;
 
 // 1
-public class Busca_Exaustiva_Sequencial {
+public class Busca_Sequencial_Exaustiva {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
